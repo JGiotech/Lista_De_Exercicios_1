@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main(){
 
     int idadeEmDias, ano, mes, dia;
