@@ -8,14 +8,14 @@ scanf("%d", &N);
 
 printf("%d\n", N);
 printf("%d nota(s) de R$ 100,00\n", N/100);
-N = N%100;
+N = N%100; // (%) significa o resto da divisao do Numero de entrada que foi dividido por 100
 
 
 printf("%d nota(s) de R$ 50,00\n", N/50);
 N = N%50;
 
 
-printf("%d nota(s) de R$ 20,00\n", N/20);
+printf("%d nota(s) de R$ 20,00\n", N/20);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 N = N%20;
 
 

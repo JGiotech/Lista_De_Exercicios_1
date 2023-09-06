@@ -34,3 +34,6 @@ case 12:
 
 return 0;
 }
+
+// correção do professor:
+
